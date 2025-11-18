@@ -46,11 +46,3 @@ Interactive:
 python .\median.py
 # Enter: 3, 1, 4, 1, 5
 ```
-
-## GitHub
-This repo includes a `.gitignore` (ignores `.env`). To commit and push:
-```powershell
-git add .
-git commit -m "Add .gitignore and README; complete both activities"
-git push -u origin main
-```
